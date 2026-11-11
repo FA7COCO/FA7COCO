@@ -61,7 +61,7 @@ Built-in support ticketing — submit a ticket by category, track status, and re
 
 ## About
 
-Built and shipped by **Farhan Muhammed** — full stack across web, iOS, and Android.
+Built and shipped by **Muhammed Farhan** — full stack across web, iOS, and Android.
 
 The source code is proprietary. This repository is a public product overview.
 
