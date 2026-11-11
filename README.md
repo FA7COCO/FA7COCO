@@ -4,7 +4,7 @@
 
 **Hire smarter. Aim higher.**
 
-AI-powered hiring platform — available on web, iOS, and Android.
+AI-powered hiring platform — web app for employers · web, iOS & Android for candidates.
 
 [![Website](https://img.shields.io/badge/Website-www.cjobfit.com-0066cc?style=flat-square)](https://www.cjobfit.com)
 [![App Store](https://img.shields.io/badge/App_Store-iOS-black?style=flat-square&logo=apple)](https://apps.apple.com/ae/app/cjobfit/id6807575102)
@@ -18,7 +18,7 @@ AI-powered hiring platform — available on web, iOS, and Android.
 
 Cjobfit brings job posting, AI resume analysis, skills assessments, voice interviews, live video interviews, and team collaboration into one platform.
 
-**For employers** — post a job, review AI-ranked applicants, run assessments, conduct interviews, and decide as a team. Available on web and mobile.
+**For employers** — post a job, review AI-ranked applicants, run assessments, conduct interviews, and decide as a team. Available on web.
 
 **For candidates** — browse jobs, apply, complete assessments, record AI voice interview responses, and join live video calls. Available on web, iOS, and Android.
 
@@ -51,9 +51,17 @@ Cjobfit brings job posting, AI resume analysis, skills assessments, voice interv
 
 ---
 
+## Support
+
+Built-in support ticketing — submit a ticket by category, track status, and reply directly with the support team.
+
+[support@cjobfit.com](mailto:support@cjobfit.com)
+
+---
+
 ## About
 
-Built and shipped by **Farhan Muhammed** — solo founder, full stack across web, iOS, and Android.
+Built and shipped by **Farhan Muhammed** — full stack across web, iOS, and Android.
 
 The source code is proprietary. This repository is a public product overview.
 
