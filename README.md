@@ -26,7 +26,7 @@ Cjobfit brings job posting, AI skills analysis, skills assessments, voice interv
 
 ## Key Features
 
-- **AI-Powered** — resume analysis, job description generation, interview scoring, and candidate evaluation, built with LangChain
+- **AI-Powered** — Skill analysis, job description generation, interview scoring, and candidate evaluation, built with LangChain
 - **Skills Assessments** — custom question sets with server-side timer and auto-scoring
 - **AI Voice Interviews** — candidates record async responses; employers review transcripts and scores
 - **Live Video Interviews** — scheduled video calls conducted inside the platform
