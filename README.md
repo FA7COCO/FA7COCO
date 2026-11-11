@@ -16,7 +16,7 @@ AI-powered hiring platform — web app for employers · web, iOS & Android for c
 
 ## What It Does
 
-Cjobfit brings job posting, AI resume analysis, skills assessments, voice interviews, live video interviews, and team collaboration into one platform.
+Cjobfit brings job posting, AI skills analysis, skills assessments, voice interviews, live video interviews, and team collaboration into one platform.
 
 **For employers** — post a job, review AI-ranked applicants, run assessments, conduct interviews, and decide as a team. Available on web.
 
