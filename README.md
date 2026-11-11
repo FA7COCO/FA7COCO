@@ -31,7 +31,7 @@ Cjobfit brings job posting, AI resume analysis, skills assessments, voice interv
 - **AI Voice Interviews** — candidates record async responses; employers review transcripts and scores
 - **Live Video Interviews** — scheduled video calls conducted inside the platform
 - **Team Collaboration** — share applicants, collect structured evaluations, and make decisions together
-- **Encrypted Messaging** — end-to-end encrypted chat between employers and candidates
+- **Encrypted Messaging** — encrypted chat between employers and candidates
 - **Pay-As-You-Go** — $199 per job posting · $10 per assessment · no monthly fees
 
 ---
