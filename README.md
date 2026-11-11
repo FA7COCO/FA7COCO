@@ -1,120 +1,155 @@
 <div align="center">
 
-# 🚀 Cjobfit
+# Cjobfit
 
-### AI-Powered Hiring & Assessment Platform
+**Measured by What Matters.**
 
-**Hire smarter. Assess faster. Build better teams.**
+Cjobfit brings screening, assessments, interviews, and team evaluation into one hiring platform — available on web for employers and on iOS and Android for candidates.
 
-[![Website](https://img.shields.io/badge/🌐_Website-www.cjobfit.com-blue?style=for-the-badge)](https://www.cjobfit.com)
-[![App Store](https://img.shields.io/badge/App_Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/ae/app/cjobfit/id6807575102)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.cjobfit.cjobfit_mobile)
-
-</div>
-
----
-
-## 💡 The Problem
-
-Traditional hiring is **broken**:
-
-- 📋 Recruiters spend **23 hours** screening resumes per hire
-- 🎲 Interviews are **inconsistent** and riddled with unconscious bias
-- 💸 A bad hire costs companies **30% of annual salary**
-- ⏳ Average time-to-hire is **42 days** — top candidates are gone in 10
-
----
-
-## 🎯 The Solution
-
-**Cjobfit** automates the entire hiring pipeline with AI — from the moment a candidate applies to the moment you make an offer.
-
-> *We replace manual screening, inconsistent interviews, and gut-feel decisions with data-driven, AI-powered assessments that are faster, fairer, and more accurate.*
-
----
-
-## ✨ Key Features
-
-### For Employers
-| Feature | Description |
-|---|---|
-| 🤖 **AI Resume Analysis** | Instantly scores and ranks candidates against job requirements |
-| 📝 **AI Question Generation** | Auto-generates role-specific interview questions from job descriptions |
-| 🎥 **Video Interviews** | Async AI-powered video interviews with real-time transcription |
-| 📊 **Automated Assessments** | Custom skill tests with server-side timing and auto-scoring |
-| 🏆 **Candidate Scoring** | Multi-dimensional scoring: skills, communication, culture fit |
-| 👥 **Team Collaboration** | Share applicants, evaluate together, leave notes |
-| 💬 **Encrypted Messaging** | End-to-end encrypted communication with candidates |
-| 📈 **Analytics Dashboard** | Real-time hiring pipeline metrics and insights |
-
-### For Candidates
-| Feature | Description |
-|---|---|
-| 📱 **Mobile-First Experience** | Native iOS & Android app for seamless job applications |
-| 🎯 **Smart Job Matching** | AI matches candidates to roles they're most likely to succeed in |
-| 🎤 **AI Interview Practice** | Mock interviews with instant AI feedback |
-| 📄 **Resume Builder** | AI-assisted resume optimization |
-| 🔔 **Real-Time Updates** | Push notifications for application status changes |
-
----
-
-## 🏗️ Tech Stack
-
-```
-Frontend (Web)     →  Next.js 14, TypeScript, Tailwind CSS
-Backend API        →  Node.js, Express.js, Prisma ORM
-Mobile App         →  Flutter (iOS + Android)
-Database           →  PostgreSQL (AWS RDS)
-AI / ML            →  OpenAI GPT-4, AWS Transcribe
-Infrastructure     →  AWS ECS (Fargate), CloudFront, S3, SES, SQS
-Security           →  End-to-End Encryption, JWT, Rate Limiting
-Payments           →  Stripe (subscription billing)
-```
-
----
-
-## 📱 Available On
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 🌐 **Web App** | [www.cjobfit.com](https://www.cjobfit.com) |
-| 🍎 **iOS** | [App Store](https://apps.apple.com/ae/app/cjobfit/id6807575102) |
-| 🤖 **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.cjobfit.cjobfit_mobile) |
+[![Website](https://img.shields.io/badge/Website-www.cjobfit.com-0066cc?style=flat-square)](https://www.cjobfit.com)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-black?style=flat-square&logo=apple)](https://apps.apple.com/ae/app/cjobfit/id6807575102)
+[![Google Play](https://img.shields.io/badge/Google_Play-Android-3ddc84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.cjobfit.cjobfit_mobile)
 
 </div>
 
 ---
 
-## 🌍 Market Opportunity
+## Why Cjobfit
 
-- **$200B+** global recruitment market
-- **72%** of hiring managers say finding qualified candidates is their #1 challenge
-- AI in HR market growing at **6.7% CAGR** through 2030
-- SMBs (our primary target) spend **$4,000–$7,000** per hire with no automation tools
+Hiring today is fragmented. Employers juggle separate tools for job posting, resume review, assessments, interviews, and team feedback — with no shared context between them. Candidates submit applications and rarely hear back, with no way to demonstrate their actual skills beyond a resume.
 
----
+Cjobfit addresses three specific problems:
 
-## 🔒 Privacy & Compliance
-
-- ✅ GDPR compliant
-- ✅ End-to-end encrypted candidate communications
-- ✅ Data minimization by design
-- ✅ Candidate consent management built-in
-- ✅ Bias audit framework for AI scoring
+- **Manual screening is slow and inconsistent.** Reviewing resumes one by one, without structure, leads to missed candidates and wasted time.
+- **Hiring tools don't talk to each other.** Assessments, interviews, and team notes live in different places, making it hard to evaluate candidates fairly.
+- **Candidates have limited ways to show what they can do.** A resume alone doesn't capture communication skills, problem-solving ability, or cultural fit.
 
 ---
 
-## 📬 Contact
+## How It Works
 
-**Built with ❤️ by the Cjobfit team**
+Employers post a job and choose which evaluation stages to use. Candidates apply through the mobile app and move through each stage. The employer team reviews results together and makes a final decision.
 
-📧 [info@cjobfit.com](mailto:info@cjobfit.com)
-🌐 [www.cjobfit.com](https://www.cjobfit.com)
+```
+Post a job
+    → Review applicants and AI-generated resume scores
+    → Run skills assessments (optional)
+    → Conduct AI voice interviews (optional)
+    → Conduct live video interviews (optional)
+    → Team evaluates, votes, and decides
+```
+
+Each stage is optional. Employers configure the pipeline to match their process.
+
+---
+
+## Employer Platform
+
+The employer platform runs on the web. Key capabilities:
+
+**Applicant Review**
+- Resume scoring against job requirements, generated automatically when a candidate applies
+- Applicant list with filters, status tracking, and side-by-side comparison
+
+**Skills Assessments**
+- Custom question sets per role, with multiple question types
+- Server-side timer enforcement and automatic scoring
+- Results visible per candidate with answer breakdowns
+
+**AI Voice Interviews**
+- Candidates complete an async voice interview from the mobile app
+- Responses are transcribed using AWS Transcribe and scored by AI
+- Employers review transcripts and scores without scheduling calls
+
+**Live Video Interviews**
+- Scheduled video calls between employer and candidate, conducted inside the platform
+- Interview notes and ratings captured during the session
+
+**Team Collaboration**
+- Invite team members and assign them to specific roles or job postings
+- Share applicants with teammates for independent review
+- Each reviewer submits a structured evaluation with scores and comments
+- Team lead sees aggregated scores, individual recommendations, and a validation workflow before a final decision is recorded
+
+**Communication**
+- End-to-end encrypted messaging between employers and candidates
+- Message history preserved per applicant
+
+**Dashboard**
+- Pipeline metrics: applications received, assessments completed, interviews scheduled, offers made
+- Activity feed and status overview per job posting
+
+---
+
+## Candidate Experience
+
+Candidates use the Cjobfit mobile app on iOS or Android.
+
+- Browse and search job listings without creating an account
+- Apply to jobs and track application status in real time
+- Complete skills assessments directly in the app, with a countdown timer
+- Record AI voice interview responses on their own schedule
+- Join live video interviews from the app
+- Message employers through encrypted in-app chat
+- Receive push notifications for status updates and interview invitations
+
+The app is available in the UAE App Store and Google Play. Regional availability may vary.
+
+---
+
+## Technology
+
+| Layer | Stack |
+|---|---|
+| Web frontend | Next.js, TypeScript, Tailwind CSS |
+| Backend API | Node.js, Express, Prisma ORM |
+| Mobile app | Flutter (iOS and Android) |
+| Database | PostgreSQL on AWS RDS |
+| AI scoring | OpenAI API |
+| Voice transcription | AWS Transcribe |
+| File storage | AWS S3 |
+| Email | AWS SES |
+| Background jobs | AWS SQS |
+| Infrastructure | AWS ECS Fargate, CloudFront |
+| Payments | Stripe |
+
+---
+
+## Security and Privacy
+
+- Candidate and employer messages are end-to-end encrypted
+- Authentication uses JWT with short-lived access tokens and refresh token rotation
+- Rate limiting is applied across all API endpoints
+- Candidate data collection is scoped to what is required for the hiring process
+- Candidates can request data deletion through the app
+- Assessment submissions are validated server-side to prevent tampering
+
+[Privacy Policy](https://www.cjobfit.com/privacy) · [Terms of Service](https://www.cjobfit.com/terms)
+
+---
+
+## About
+
+Cjobfit is designed, built, and shipped by **Farhan Muhammed** — a solo founder who built the full product across web, iOS, and Android.
+
+The application source code is proprietary and private. This repository serves as a public product overview.
+
+---
+
+## Contact
+
+Email: [info@cjobfit.com](mailto:info@cjobfit.com)
+Website: [www.cjobfit.com](https://www.cjobfit.com)
 
 ---
 
 <div align="center">
-<sub>© 2026 Cjobfit. All rights reserved.</sub>
+<sub>
+<a href="https://www.cjobfit.com">Website</a> ·
+<a href="https://apps.apple.com/ae/app/cjobfit/id6807575102">App Store</a> ·
+<a href="https://play.google.com/store/apps/details?id=com.cjobfit.cjobfit_mobile">Google Play</a> ·
+<a href="https://www.cjobfit.com/privacy">Privacy Policy</a> ·
+<a href="https://www.cjobfit.com/terms">Terms</a> ·
+<a href="mailto:info@cjobfit.com">Contact</a>
+</sub>
 </div>
